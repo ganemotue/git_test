@@ -1,1 +1,5 @@
-Second change made by master (after dev created) 
+Second change made by master (after dev created)
+
+------
+
+1st change after dev rebase  

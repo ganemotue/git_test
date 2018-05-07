@@ -2,4 +2,10 @@ This is a test text file.
 
 First change made by master (after dev branch is created)
 
-Second change made by master ( '' )  
+Second change made by master ( '' ) 
+
+------
+
+
+First change after dev rebase 
+ 
