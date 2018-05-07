@@ -1,3 +1,5 @@
 This is a test text file. 
 
-First change made by master (after dev branch is created) 
+First change made by master (after dev branch is created)
+
+Second change made by master ( '' )  
